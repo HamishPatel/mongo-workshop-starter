@@ -1,5 +1,19 @@
 [
   {
+    "_id": "71b5ed07-9e1e-47d0-937a-64c396d5567z",
+    "name": "Chanul Erignamanaasa",
+    "phoneNumber": "+64 21 0864 9044",
+    "funFact": "Ghotham City needs me...",
+    "photoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjqUIof2JJoOn15-JhBuuvNLbFhydzXkbkebHLvcVvVg&s"
+  },
+  {
+    "_id": "71b5ed07-9e1e-47d0-937a-64c396d5567d",
+    "name": "Atulbox Kodla",
+    "phoneNumber": "+64 204 103 7777",
+    "funFact": "Ride my horse to the old town road...",
+    "photoUrl": "https://www.rollingstone.com/wp-content/uploads/2024/04/lil-nas-x-sound-cloud-song.jpg?w=1581&h=1054&crop=1"
+  },
+  {
     "_id": "055f1aaa-aab0-4ff3-a709-85c28f1d397f",
     "name": "Luke Skywalker",
     "phoneNumber": "+1 555-000-1001",

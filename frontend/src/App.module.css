@@ -8,4 +8,7 @@
   box-shadow: 0px 2px 8px 4px rgba(0, 0, 0, 0.12);
   margin-top: 10vh;
   min-height: 600px;
+
+  /* Gradient CSS */
+  background: linear-gradient(180deg, aqua 0%, blue 100%);
 }
